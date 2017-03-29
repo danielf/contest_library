@@ -1,1 +1,1 @@
-# contest_library
+# Contest Library
